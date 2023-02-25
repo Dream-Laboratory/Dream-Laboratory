@@ -1,7 +1,8 @@
 # 🧪 방구석 실험실
 
-
+<img src="https://user-images.githubusercontent.com/86208370/221380802-3204a484-63a2-4938-8faa-9ecbad1a7e9c.png" width="800" height="500"/>
 <img src="https://user-images.githubusercontent.com/86208370/215349747-82c8366d-5a18-4bd0-bc42-03eb42ab1952.png" width="800" height="500"/>
+<img src="https://user-images.githubusercontent.com/86208370/221381169-01a54dd4-19c6-4afa-a4cd-c0cd4941de75.gif" width="800" height="500"/>
 
 
 
@@ -10,10 +11,15 @@
 방구석 실험실은 과학 실험을 체험하기 어려운 학교 밖 청소년들을 위한 VR 과학 실험실입니다. <br>
 학교를 다니지 않아, 배움의 기회를 놓쳐 과학 실험을 실제로 접하지 못하는 `학교 밖 청소년`들이 있습니다. 이들에게 가상의 VR 실험실 환경을 제공함으로써 시간, 장소, 예산 등의 요소에 영향받지 않고 자유롭게 과학 실험을 체험하고 눈으로 확인할 수 있습니다.
 
-`아래의 링크를 클릭하면 이동합니다` <br>
+`아래의 링크를 클릭하면 이동합니다` 
+<br>
+<br>
 💌 [Notion](https://metal-carver-67b.notion.site/b1ec1c085e0c4f0cad57aa4d4c38eb08) - 프로젝트를 진행하며 서비스 관리 및 회고 등 정리하였습니다. <br>
 📻 [Youtube](https://www.youtube.com/watch?v=oWvl9y9Yvgk) - 팀에서 제작한 프로젝트 UCC 입니다. <br>
 🎁 [PPT](https://www.canva.com/design/DAFSYx7s0M4/DTh8E89OvhNjmaia_8QZSA/view?utm_content=DAFSYx7s0M4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - 프로젝트 본선 발표 PPT 입니다.
+<br>
+
+`UNITY 유료 Assets 정책 특성상 코드를 전부 올리지 못하는 점 양해부탁드립니다. 전체 소스코드와 Apk를 보관하고 있습니다`
 
 <br>
 
