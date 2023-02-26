@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/86208370/221380802-3204a484-63a2-4938-8faa-9ecbad1a7e9c.png" width="800" height="500"/>
 <img src="https://user-images.githubusercontent.com/86208370/215349747-82c8366d-5a18-4bd0-bc42-03eb42ab1952.png" width="800" height="500"/>
 <img src="https://user-images.githubusercontent.com/86208370/221381169-01a54dd4-19c6-4afa-a4cd-c0cd4941de75.gif" width="800" height="500"/>
-
+- 2022.11.18 : 미추홀구 꿈드림 센터에서 5명의 학교 밖 청소년들에게 [방구석 실험실] 시연
 
 
 ## 📜 소개
