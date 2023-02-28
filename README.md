@@ -15,7 +15,7 @@
 <br>
 <br>
 💌 [Notion](https://metal-carver-67b.notion.site/b1ec1c085e0c4f0cad57aa4d4c38eb08) - 프로젝트를 진행하며 서비스 관리 및 회고 등 정리하였습니다. <br>
-📻 [Youtube](https://www.youtube.com/watch?v=oWvl9y9Yvgk) - 팀에서 제작한 프로젝트 UCC 입니다. <br>
+📻 [Youtube](https://www.youtube.com/watch?v=oWvl9y9Yvgk) - 팀에서 제작한 프로젝트 소개 영상 및 미추홀구 꿈드림 시연 영상 입니다.❤(방문하신다면 꼭 시청 부탁드립니다)❤  <br>
 🎁 [PPT](https://www.canva.com/design/DAFSYx7s0M4/DTh8E89OvhNjmaia_8QZSA/view?utm_content=DAFSYx7s0M4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - 프로젝트 본선 발표 PPT 입니다.
 <br>
 
