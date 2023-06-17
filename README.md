@@ -135,3 +135,7 @@
 ## 🥇 수상 이력
 <img src="https://user-images.githubusercontent.com/86208370/215350866-8f52d1ae-5196-4829-aead-6735a9d87c20.png" width="800" height="500"/>
 
+## 😇 미추홀구 꿈드림 VR 기증 (현재 서비스 운영 중)
+![image](https://github.com/Dream-Laboratory/Dream-Laboratory/assets/86208370/ae9cfcb9-fe34-4201-9fa4-63ba0e574000)
+
+
